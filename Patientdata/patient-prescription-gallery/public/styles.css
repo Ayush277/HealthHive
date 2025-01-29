@@ -3,7 +3,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #002342; /* Changed background color */
+    color: white; /* Changed font color to white */
 }
 
 .container {
